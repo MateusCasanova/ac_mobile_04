@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwitchTextAppearance" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/switch_text_color_selector</item>
+    </style>
+</resources>
